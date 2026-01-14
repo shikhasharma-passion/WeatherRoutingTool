@@ -1,0 +1,12 @@
+Installation section observations (WeatherRoutingTool):
+
+1. Installation steps and commands are clearly listed and technically correct.
+
+2. However, there is no clear guidance on what to do after installation is complete.
+
+3. Beginners may not know how to verify a successful installation or how to run the tool for the first time.
+
+4. The purpose of the command using `requirements-without-deps.txt` may be unclear to new contributors.
+
+5. The power/fuel consumption framework section mentions additional setup but does not clarify
+whether it is required for a first run or only for advanced use cases.
